@@ -1,0 +1,52 @@
+body {
+	background: White;
+}
+
+h1 {
+	color: Green;
+	font-size: 48px;
+}
+h4 {
+	color: Magenta;
+	font-size: 70px;
+}
+
+input, button {	
+	font-size: 24px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+
+input {
+	color: Indigo;
+	background: Moccasin;
+	text-align: center;
+	border: Indigo 1px dotted;
+	width: 300px;
+}
+button {
+	color: Black;
+	background: Moccasin;
+	border: Red 1px solid;
+	width: 200px;
+	font-weight: normal;
+}
+
+button:hover {
+	background: Yellow;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+input:hover{
+	background: Khaki;
+}
+input:focus {
+	background: Khaki;
+	border-width: 2px;
+	
+}
+	
+
+
+
